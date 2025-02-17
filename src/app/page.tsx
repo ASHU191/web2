@@ -7,7 +7,7 @@ import Services from '@/widgets/Services';
 import Approach from '@/widgets/Approach';
 import Project from '@/widgets/Project';
 import Sliding from '@/widgets/Sliding';
-import Testimonial from '@/widgets/Testimonial';
+
 import CallToAction from '@/widgets/CallToAction';
 import Leader from '@/widgets/Leader';
 import ShadowCursor from '@/components/ui/ShadowCursor'
@@ -24,7 +24,7 @@ export default function Home() {
       <Leader />
       <Approach />
       <Sliding />
-      {/* <Testimonial /> */}
+      
       
       <CallToAction />
       
